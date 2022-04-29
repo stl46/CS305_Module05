@@ -10,4 +10,3 @@
 ## Contributors Go Here
 ***You're my favorite deputy!***
   1. First Last: @github_username Vote: Movie Title
-  2. First Last: @github_username Vote: Movie Title
