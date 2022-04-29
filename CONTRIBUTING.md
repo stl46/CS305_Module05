@@ -8,5 +8,5 @@
 
 ## Contributors Go Here
 ***Format: "First Last: @github_username"***
-  1.
-  2.
+  1. First Last: @github_username
+  2. First Last: @github_username
