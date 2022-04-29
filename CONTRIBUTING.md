@@ -5,8 +5,9 @@
   3. Monster's Inc
   4. Bugs Life
   5. The Incredibles
+  6. Cars
 
 ## Contributors Go Here
-***Format: "First Last: @github_username"***
-  1. First Last: @github_username
-  2. First Last: @github_username
+***You're my favorite deputy!***
+  1. First Last: @github_username Vote: Movie Title
+  2. First Last: @github_username Vote: Movie Title
