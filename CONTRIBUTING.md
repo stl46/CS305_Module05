@@ -7,6 +7,4 @@
 5. The Incredibles
 
 ## Contributors Go Here
-***Format: "First Last: @githubusername"***
-1.
-2.
+***Format: "First Last: @github_username"***
